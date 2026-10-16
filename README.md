@@ -1,4 +1,4 @@
-# WebPerpustakaan
+# library-management-web
 
 A library management web app built with Java Servlets, JSP, and MySQL. This was a team final project for an object-oriented programming course.
 
